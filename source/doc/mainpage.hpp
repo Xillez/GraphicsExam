@@ -7,7 +7,6 @@
  *	
  *	\section authors_sec Authors exam:
  *	\author Kent Wincent Holt - 473209 - kentwh@stud.ntnu.no
- *	\author Zohaib Butt - 473219 - zohaibb@stud.ntnu.no
  *	
  * \section intro_sec Introduction
  *
